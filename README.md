@@ -3,7 +3,7 @@
 ### 🚀 MERN Stack Developer | Node.js Backend Developer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,nodejs,express,ts,mongodb,mysql,postgres,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,nodejs,express,ts,mongodb,mysql,postgres,git,github" />
 </p>
 
 <p align="center">
